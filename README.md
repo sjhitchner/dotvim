@@ -1,5 +1,9 @@
 # vim configuration
 
+## Initializing after clone
+
+	git submodule update --init --recursive
+
 ## Adding a plugin
 
     git submodule init
