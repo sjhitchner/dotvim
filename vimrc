@@ -5,11 +5,12 @@ syntax on
 
 set autowrite
 set autoread
+set novisualbell
+set noerrorbells
 
 set showcmd
 set tabstop=4
 set shiftwidth=4
-set noerrorbells novisualbell
 set belloff=all
 set hidden
 set splitbelow  "split options
