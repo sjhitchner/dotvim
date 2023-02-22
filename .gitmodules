@@ -7,3 +7,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "/Users/stephenhitchner/.vim/bundle/vim-terraform"]
+	path = /Users/stephenhitchner/.vim/bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
